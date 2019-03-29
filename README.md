@@ -1,2 +1,2 @@
 # FreeFem-parser-nedit
-NEdit parser for FreeFem++
+NEdit parser for [FreeFEM](https://freefem.org/)
